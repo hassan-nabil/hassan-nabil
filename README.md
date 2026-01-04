@@ -21,11 +21,9 @@
 
 ### 💬 Ask me about
 - Co-op hunting as a CS student 😭
-- Cloud vs DevOps vs Full-Stack (and why I like all three)
-- calesthenics
+- Cloud, DevOps and FSD
 - Making applications more accessible
-- anime and video games
-- how to destroy your career (SO YOU DON'T DO THAT 😄 )
+- Calesthenics, football(⚽️), anime and video games
 
 ### 📫 How to reach me
 - 💼 LinkedIn: *https://www.linkedin.com/in/hassan-n-7b7137263/*

@@ -11,7 +11,8 @@
 - DevOps practices, cloud platforms, writing clean code, and new technologies.
 
 ### 🛠️ Tech I work with
-**Languages:** JavaScript, Python, Java, SQL  **Frontend:** React, HTML, CSS  **Backend:** Node.js, REST APIs  **Databases:** MongoDB, MySQL  **Tools:** Git/GitHub, Jira, Slack, Docker (learning), Linux
+**Languages:** JavaScript, Python, Java, SQL  **Frontend:** React, HTML, CSS  
+**Backend:** Node.js, REST APIs  **Databases:** MongoDB, MySQL  **Tools:** Git/GitHub, Jira, Slack, Docker (learning), Linux
 
 ### 👯 I’d love to collaborate on
 - Open-source projects (especially beginner-friendly ones)

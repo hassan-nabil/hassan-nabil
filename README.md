@@ -28,7 +28,7 @@
 
 ### 📫 How to reach me
 - 💼 LinkedIn: *https://www.linkedin.com/in/hassan-n-7b7137263/*
-- 📧 Email: *[hassan_isworking@outlook.com]* (I may or may not pick up your call, but I always check my emails :D)
+- 📧 Email: *hassan_isworking@outlook.com* (I may or may not pick up your call, but I always check my emails :D)
 
 THANKS for stopping by — feel free to explore my tiny profile or reach out! 😄
 

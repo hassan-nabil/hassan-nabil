@@ -1,18 +1,20 @@
-## Hi there 👋 My name is Hassan
- Computer Science student | Cloud & DevOps enthusiast | Builder of things that work (sometimes lol)
+## Hi there 👋 I am a
+ Computer Science student | Cloud & DevOps enthusiast | Full Stack Builder
+ I enjoy solving puzzles, building practical software products end-to-end and learning the systems behind how they’re shipped, deployed, and maintained.
 
 ### 🔭 What I’m currently up to
 - Building and testing full-stack applications using **JavaScript, React, Node.js, and Java**
 - Exploring DevOps & cloud workflows (CI/CD, containers, AWS basics)
+- 
 - Working on projects that focus on accessibility, usability, and real-world impact
-- Actively searching for a co-op for the Summer cause I will be returning to school in Fall.
+- Actively searching for a co-op for the Summer and I will be returning to school in Fall.
 
 ### 🌱 What I’m learning
 - DevOps practices, cloud platforms, writing clean code, and new technologies.
 
 ### 🛠️ Tech I work with
-**Languages:** JavaScript, Python, Java, SQL  **Frontend:** React, HTML, CSS  
-**Backend:** Node.js, REST APIs  **Databases:** MongoDB, MySQL  **Tools:** Git/GitHub, Jira, Slack, Docker (learning), Linux
+**Languages:** Python, Java, Javascript, SQL  **Frontend:** React, HTML, CSS  
+**Backend:** Node.js, Next.js, REST APIs  **Databases:** MongoDB, MySQL, Supabase  **Tools:** Git/GitHub, Jira, Postman, Slack, Docker, Cursor, Windsurf, Jetbrain, VS, VS Code
 
 ### 👯 I’d love to collaborate on
 - Open-source projects (especially beginner-friendly ones)
@@ -23,11 +25,10 @@
 - Co-op hunting as a CS student 😭
 - Cloud, DevOps and FSD
 - Making applications more accessible
-- Calesthenics, football(⚽️), anime and video games
+- anything
 
 ### 📫 How to reach me
 - 💼 LinkedIn: *https://www.linkedin.com/in/hassan-n-7b7137263/*
-- 📧 Email: *hassan_isworking@outlook.com* (I may or may not pick up your call, but I always check my emails :D)
+- 📧 Email: *hassan_isworking@outlook.com* 
 
 THANKS for stopping by — feel free to explore my tiny profile or reach out! 😄
-

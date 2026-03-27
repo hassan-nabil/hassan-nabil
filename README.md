@@ -1,34 +1,33 @@
-## Hi there 👋 I am a
- Computer Science student | Cloud & DevOps enthusiast | Full Stack Builder
- I enjoy solving puzzles, building practical software products end-to-end and learning the systems behind how they’re shipped, deployed, and maintained.
+## Hi there 👋
+ I’m a 22-year-old Computer Science student focused on Cloud and DevOps, and I love building full-stack products from idea to deployment.
+ I enjoy solving real problems, learning how systems work behind the scenes, and shipping software that is practical, accessible, and impactful.
 
 ### 🔭 What I’m currently up to
-- Building and testing full-stack applications using **JavaScript, React, Node.js, and Java**
-- Exploring DevOps & cloud workflows (CI/CD, containers, AWS basics)
-- 
-- Working on projects that focus on accessibility, usability, and real-world impact
-- Actively searching for a co-op for the Summer and I will be returning to school in Fall.
+- Building full-stack projects with **Python, JavaScript/TypeScript, React, Next.js**
+- Exploring cloud and DevOps workflows, including CI/CD, containers, and AWS fundamentals
+- Improving software quality through better architecture, testing, and maintainability
 
 ### 🌱 What I’m learning
-- DevOps practices, cloud platforms, writing clean code, and new technologies.
+- DevOps best practices and cloud-native development
+- Better system design and performance optimization
 
 ### 🛠️ Tech I work with
-**Languages:** Python, Java, Javascript, SQL  **Frontend:** React, HTML, CSS  
-**Backend:** Node.js, Next.js, REST APIs  **Databases:** MongoDB, MySQL, Supabase  **Tools:** Git/GitHub, Jira, Postman, Slack, Docker, Cursor, Windsurf, Jetbrain, VS, VS Code
+**Languages:** Python, Java, JavaScript, TypeScript SQL  **Frontend:** React, Next.js, HTML, CSS  
+**Backend:** REST APIs, FastAPI, Spring Boot  **Databases:** MongoDB, MySQL, Supabase  **Tools:** Git/GitHub, Jira, Postman, Slack, Docker, Cursor, Windsurf, Jetbrains, VS, VS Code
 
 ### 👯 I’d love to collaborate on
-- Open-source projects (especially beginner-friendly ones)
-- Full-stack or cloud-based apps
-- Projects focused on accessibility or social impact
+- Open-source projects
+- Full-stack or cloud-based applications
+- Accessibility-focused products or social-impact projects
 
 ### 💬 Ask me about
 - Co-op hunting as a CS student 😭
-- Cloud, DevOps and FSD
-- Making applications more accessible
+- Cloud, DevOps, FSD and vibe-coding
+- Building accessible, user-friendly applications
 - anything
 
 ### 📫 How to reach me
 - 💼 LinkedIn: *https://www.linkedin.com/in/hassan-n-7b7137263/*
 - 📧 Email: *hassan_isworking@outlook.com* 
 
-THANKS for stopping by — feel free to explore my tiny profile or reach out! 😄
+THANKS for stopping by — feel free to explore my smoll profile or reach out! 😄
